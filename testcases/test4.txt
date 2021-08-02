@@ -1,0 +1,16 @@
+befriend Primary Rachel
+befriend Primary Charles
+befriend Rachel Cody
+befriend Primary Antonio
+befiend Antonio Cody
+add user Necati
+befriend Necati Rachel
+radius 2
+listen Necati 3 Pontiac Blues
+listen Rachel 5 Bus Stop
+listen Charles 12 Angel
+listen Cody 7 Mount Everest
+unfriend Rachel Cody
+listen Cody 8 Hard Times
+show hits
+exit

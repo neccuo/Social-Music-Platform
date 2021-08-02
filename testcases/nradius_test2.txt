@@ -1,0 +1,16 @@
+befriend Primary Matt
+befriend Matt Ali
+befriend Ali John
+befriend John Rachel
+befriend Rachel Primary
+radius 1
+show user Matt
+show user Ali
+show user John
+show user Rachel
+listen Matt 10 Bad
+listen Ali 10 Bad
+listen John 10 Bad
+listen Rachel 10 Bad
+show heap
+exit

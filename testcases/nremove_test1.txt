@@ -1,0 +1,32 @@
+befriend Primary Matt
+befriend Matt Ali
+befriend Ali John
+befriend John Rachel
+befriend Rachel Primary
+radius 2
+show user Matt
+show user Ali
+show user John
+show user Rachel
+listen Matt 10 Billie Jean
+listen Matt 10 Bad
+listen Matt 10 Smooth Criminal
+listen Matt 10 Meet Me at the Corner
+listen Matt 10 The Thrill Is Gone
+listen Matt 10 Pontiac Blues
+listen Matt 10 Bus Stop
+listen Matt 10 Angel
+listen Matt 10 Mount Everest
+recommend 9
+remove song Billie Jean
+remove song Bad
+remove song Smooth Criminal
+remove song Meet Me at the Corner
+remove song The Thrill Is Gone
+remove song Pontiac Blues
+remove song Bus Stop
+remove song Angel
+remove song Mount Everest
+show library
+show heap
+exit

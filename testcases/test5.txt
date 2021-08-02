@@ -1,0 +1,13 @@
+befriend Primary Rachel
+befriend Primary Charles
+befriend Rachel Cody
+befriend Primary Antonio
+befiend Antonio Cody
+radius 2
+listen Necati 3 Pontiac Blues
+listen Rachel 5 Bus Stop
+listen Charles 12 Angel
+listen Cody 7 Mount Everest
+recomment 3 
+show hits
+exit

@@ -1,0 +1,18 @@
+befriend Primary Ali
+befriend Ahmet Ali
+befriend Peter Ahmet
+befriend Robert William
+befriend Peter Kristin
+befriend Joseph Thomas
+befriend Joseph Nicole
+radius 3
+listen Ali 10 Billie Jean
+listen Thomas 100 No Love
+listen Matt 20 Bad
+unfriend Peter Ahmet
+listen Peter 15 Smooth Criminal
+listen Ali 30 Billie Jean
+listen Nicole 5 Dolencias
+listen Joseph 9 The Thrill Is Gone
+show hits
+exit

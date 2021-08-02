@@ -1,1 +1,3 @@
-# Social-Music-Platform
+Cppotify
+
+Data Structures and Algorithm final project

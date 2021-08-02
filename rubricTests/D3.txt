@@ -1,0 +1,23 @@
+befriend Primary Matt
+befriend Primary David
+befriend Primary Ali
+befriend Primary Matt
+befriend Primary David
+befriend Primary Ali
+befriend Matt John
+befriend Ali Rachel
+befriend David Mike
+befriend Rachel James
+befriend Rachel Ryan
+radius 3
+listen Matt 10 Bad
+listen Matt 20 Billie Jean
+listen Matt 5 Thriller
+listen Matt 30 DSTYGE
+listen Matt 15 Beat It
+listen Matt 100 Smooth Criminal
+show heap
+listen Ali 40 Thriller
+listen Ali 90 Beat It
+show heap
+exit

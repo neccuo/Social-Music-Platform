@@ -1,0 +1,34 @@
+befriend Primary Matt
+befriend Primary David
+befriend Primary Ali
+befriend Matt John
+befriend Ali Rachel
+befriend David Mike
+befriend Rachel James
+befriend Rachel Ryan
+radius 3
+listen Matt 10 Bad
+listen Matt 20 Billie Jean
+listen Matt 5 Thriller
+listen Matt 30 DSTYGE
+listen Matt 15 Beat It
+listen Matt 100 Smooth Criminal
+listen Matt 2 No Love
+listen Matt 20 Wish You Were Here 
+listen Matt 27 Another Brick In The Wall
+listen Matt 30 Sweet Home Chicago
+listen Matt 40 Here Without You
+listen Matt 50 The Temple Of The King
+listen Matt 50 Aranjuez Mon Amour
+listen Matt 60 On The Road Again
+listen Matt 70 Wild Is the Wind
+listen Matt 15 Meet Me at the Corner
+listen Matt 10 Wild Life
+listen Matt 5 Ain't No Sunshine
+listen Matt 45 Take Me Home, Country Roads
+listen Matt 90 Ciao ciao bambina 
+listen Matt 35 Glamour Girl
+listen Matt 25 Dolencias
+show heap
+show sys
+exit

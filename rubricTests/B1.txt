@@ -1,0 +1,4 @@
+add song Billie Jean
+add song Pretty Young Thing
+show sys
+exit

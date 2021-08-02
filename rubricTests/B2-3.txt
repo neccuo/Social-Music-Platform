@@ -1,0 +1,12 @@
+befriend Primary Matt
+befriend Primary Mike
+listen Matt 20 Bad
+listen Mike 60 Billie Jean
+listen Mike 50 Thriller
+listen Matt 40 Beat it
+show heap
+recommend 2
+show library
+show heap
+show sys
+exit

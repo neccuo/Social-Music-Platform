@@ -1,0 +1,29 @@
+add user Ali
+add user Ahmet 
+add user Peter
+add user Robert
+add user Joseph
+add user Kristin
+add user Thomas
+add user Nicole
+befriend Primary Ali
+befriend Ahmet Ali
+befriend Peter Ahmet
+befriend Robert William
+befriend Peter Kristin
+befriend Joseph Thomas
+befriend Joseph Nicole
+befriend Ali Joseph
+befriend Nicole Kristin
+show users
+show graph
+show user Primary
+show user Peter
+show user Kristin
+unfriend Primary Ali 
+unfriend Nicole Kristin
+show user Primary
+show user Kristin
+show user Peter
+show graph
+exit

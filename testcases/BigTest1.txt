@@ -1,0 +1,122 @@
+add user Ahmet 
+add user Peter
+add user Robert
+add user Joseph
+add user Kristin
+add user Thomas
+add user Nicole
+befriend Primary Ali
+befriend Ahmet Ali
+befriend Peter Ahmet
+befriend Robert William
+befriend Peter Kristin
+befriend Joseph Thomas
+befriend Joseph Nicole
+befriend Ali Joseph
+befriend Nicole Kristin
+radius 4
+listen Ali 10 Billie Jean
+listen Thomas 100 No Love
+listen Ahmet 10 No Love 
+listen Kristin 12 Bad
+listen Matt 20 Bad
+listen Peter 15 Smooth Criminal
+listen Ali 30 Billie Jean
+listen Nicole 5 Dolencias
+listen William 7 Meet Me at the Corner
+listen Joseph 9 The Thrill Is Gone
+listen Ali 10 Billie Jean
+listen Ali 10 Bad
+listen Ali 10 Smooth Criminal
+listen Ali 10 Billie Jean
+listen Ali 10 Meet Me at the Corner
+listen Ali 10 The Thrill Is Gone
+listen Ali 10 Who Do You Love?
+listen Ali 10 Never Going Back Again
+listen Ali 10 Trouble
+listen Ali 10 Cumberland Gap
+listen Ali 10 Free Me
+listen Ali 10 The Bard's Song
+listen Ali 10 Pale Blue Eyes
+listen Ali 10 She's Crazy
+listen Ali 10 Lonely Fool
+listen Ali 10 I'm Tired of These Blues
+listen Ali 10 Lead Me Home
+listen Ali 10 Three Little Birds
+listen Ali 10 Stayin' Alive
+listen Ali 10 I WILL SURVIVE
+listen Ali 10 Need Her So Bad
+listen Ali 10 The Memory of Our Love
+listen Ali 10 American Funeral
+listen Ali 10 Time Moves Slow
+listen Ali 10 Wind Of Change
+listen Ali 10 Riders on the Storm
+listen Ali 10 Your Latest Trick
+listen Ali 10 What Are You Doing the Rest of Your Life?
+listen Ali 10 Fifty Ways to Love Your Liver
+listen Ali 10 Our Love
+listen Ali 10 Long Tall Sally
+listen Ali 10 Ain't She Sweet
+listen Ali 10 Folsom Prison Blues
+listen Ali 10 I'd Love to Change the World
+listen Ali 10 Sister Golden Hair
+listen Ali 10 Bye Bye Love
+listen Ali 10 No Milk Today
+listen Ali 10 Blue Suede Shoes
+listen Ali 10 The Free Electric Band
+listen Ali 10 Hit the Road Jack
+listen Ali 10 Bella Ciao
+listen Ali 10 Heart Full of Soul
+listen Ali 10 Baker Street
+listen Ali 10 For Your Love
+listen Ali 10 The Air That I Breathe
+show hits
+recommend 43
+remove song Billie Jean
+remove song Bad
+remove song Smooth Criminal
+remove song Billie Jean
+remove song Meet Me at the Corner
+remove song The Thrill Is Gone
+remove song Who Do You Love?
+remove song Never Going Back Again
+remove song Trouble
+remove song Cumberland Gap
+remove song Free Me
+remove song The Bard's Song
+remove song Pale Blue Eyes
+remove song She's Crazy
+remove song Lonely Fool
+remove song I'm Tired of These Blues
+remove song Lead Me Home
+remove song Three Little Birds
+remove song Stayin' Alive
+remove song I WILL SURVIVE
+remove song Need Her So Bad
+remove song The Memory of Our Love
+remove song American Funeral
+remove song Time Moves Slow
+remove song Wind Of Change
+remove song Riders on the Storm
+remove song Your Latest Trick
+remove song What Are You Doing the Rest of Your Life?
+remove song Fifty Ways to Love Your Liver
+remove song Our Love
+remove song Long Tall Sally
+remove song Ain't She Sweet
+remove song Folsom Prison Blues
+remove song I'd Love to Change the World
+remove song Sister Golden Hair
+remove song Bye Bye Love
+remove song No Milk Today
+remove song Blue Suede Shoes
+remove song The Free Electric Band
+remove song Hit the Road Jack
+remove song Bella Ciao
+remove song Heart Full of Soul
+remove song Baker Street
+remove song For Your Love
+remove song The Air That I Breathe
+show library
+show hits
+exit

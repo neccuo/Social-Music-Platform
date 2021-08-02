@@ -1,0 +1,19 @@
+befriend Primary Matt
+befriend Primary David
+befriend Primary Ali
+befriend Matt John
+befriend Ali Rachel
+befriend David Mike
+befriend Rachel James
+befriend Rachel Ryan
+radius 2
+listen Matt 10 Bad
+listen Ali 20 Billie Jean
+listen Matt 5 Thriller
+show heap
+listen David 5 Billie Jean
+listen Mike 20 No Love
+listen John 10 Dolencias
+show heap
+show sys
+exit
